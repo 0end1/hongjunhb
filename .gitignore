@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+*~
+.DS_Store
+node_modules.zip
+*.zip
+mapStyles.json
+yarn.lock
+testMap.html
+source/.idea
+/.idea
