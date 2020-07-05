@@ -92,7 +92,7 @@ a:hover, a:focus{
     left: 0;
     top: 0;
     z-index: 2;
-    
+
     transition: all ease 300ms;
     -moz-transition: all ease 300ms;
     -webkit-transition: all ease 300ms;
@@ -115,7 +115,7 @@ a:hover, a:focus{
     left: 6px;
     top: 6px;
     z-index: 1;
-    
+
     transition: all ease 300ms;
     -moz-transition: all ease 300ms;
     -webkit-transition: all ease 300ms;
@@ -173,7 +173,7 @@ a:hover, a:focus{
     opacity: 0;
     visibility: hidden;
     background: #06163a;
-    
+
     transition: all ease 300ms;
     -moz-transition: all ease 300ms;
     -webkit-transition: all ease 300ms;
@@ -249,10 +249,10 @@ input:focus, textarea:focus, select:focus, button:focus{
     color: #FFF;
 }
 .sec_title{
-    font-size: 80px;
-    line-height: 90px;
+    font-size: 60px;
+    line-height: 60px;
     letter-spacing: -2.4px;
-    margin: 0 0 80px;
+    margin: 0 0 60px;
     position: relative;
 }
 .sec_title.dark_sec_title{
