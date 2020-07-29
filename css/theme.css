@@ -243,7 +243,8 @@ License URI:
     font-size: 16px;
     color: #7e889b;
     display: inline-block;
-    line-height: .85;
+    /*line-height: .85;*/
+    line-height: 1;
     text-transform: uppercase;
     font-weight: 500;
 
